@@ -58,11 +58,13 @@
 
 # About Me
 
-I am a **Software Engineer** passionate about designing, building, and deploying scalable software solutions with a strong emphasis on **AI Engineering**, **Full Stack Development**, and **Product Engineering**.
+# About Me
 
-My primary interests lie in creating intelligent systems that combine **Artificial Intelligence**, **Cloud Technologies**, **Modern Web Development**, and **Blockchain** to solve real-world engineering challenges.
+I am a **Computer Science Engineering student** and an **Aspiring Software Engineer** with a strong interest in **Artificial Intelligence**, **Full Stack Web Development**, and **Blockchain Technology**.
 
-I enjoy architecting clean, maintainable software while continuously exploring emerging technologies that improve performance, security, automation, and developer productivity.
+I enjoy building practical software solutions that solve real-world problems through clean architecture, modern web technologies, and intelligent systems. My experience includes developing AI-powered applications, blockchain-based document management systems, and responsive web applications using the MERN stack.
+
+Currently, I am focused on strengthening my expertise in Software Engineering, System Design, Data Structures & Algorithms, and Cloud Technologies while building production-ready projects that demonstrate scalable and maintainable software development.
 
 My engineering philosophy centers around:
 
@@ -104,13 +106,9 @@ My engineering philosophy centers around:
 
 <img src="https://skillicons.dev/icons?i=c"/>
 
-<img src="https://skillicons.dev/icons?i=cpp"/>
-
 <img src="https://skillicons.dev/icons?i=html"/>
 
 <img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=bash"/>
 
 </p>
 
@@ -122,13 +120,9 @@ My engineering philosophy centers around:
 
 <img src="https://skillicons.dev/icons?i=react"/>
 
-<img src="https://skillicons.dev/icons?i=nextjs"/>
-
 <img src="https://skillicons.dev/icons?i=vite"/>
 
 <img src="https://skillicons.dev/icons?i=tailwind"/>
-
-<img src="https://skillicons.dev/icons?i=bootstrap"/>
 
 <img src="https://skillicons.dev/icons?i=threejs"/>
 
@@ -149,10 +143,6 @@ My engineering philosophy centers around:
 <img src="https://skillicons.dev/icons?i=mongodb"/>
 
 <img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://skillicons.dev/icons?i=firebase"/>
-
-<img src="https://skillicons.dev/icons?i=postgres"/>
 
 </p>
 
@@ -175,8 +165,6 @@ My engineering philosophy centers around:
 <img src="https://skillicons.dev/icons?i=vercel"/>
 
 <img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=linux"/>
 
 </p>
 
@@ -328,7 +316,7 @@ Built to demonstrate scalable AI integration into modern web applications.
 
 | Category | Details |
 |-----------|---------|
-| **Technology Stack** | Python • Ollama • LLMs • LangChain • React • Node.js |
+| **Technology Stack** | React • Node.js • Express.js • MongoDB • Google Gemini API • JavaScript • IPFS • Ethereum • Smart Contracts |
 | **Architecture** | AI Service + REST API |
 | **Performance** | Low-latency inference pipeline |
 | **Security** | Secure API architecture |
@@ -344,6 +332,7 @@ Built to demonstrate scalable AI integration into modern web applications.
 - API-driven services
 - Modular AI backend
 - Scalable deployment
+- AI-powered document analysis using Google Gemini API
 
 </details>
 
@@ -427,25 +416,23 @@ A Python-based data transformation engine designed to normalize multiple telemet
 
 # Experience
 
-## Software Engineer | AI & Full Stack Developer
+## Aspiring Software Engineer | Computer Science Engineering Student
 
-**Open to Full-Time Opportunities**  
-**2026 – Present**
+**Holy Mary Institute of Technology & Science**  
+**2022 – Present**
 
-Designing and building scalable software solutions with a strong focus on Artificial Intelligence, Full Stack Development, Cloud Computing, and Blockchain Technologies. Passionate about creating production-ready applications that solve real-world business challenges.
+Passionate Computer Science Engineering student specializing in **Software Development**, **Artificial Intelligence**, **Blockchain**, and **Full Stack Web Development**. Focused on designing scalable applications, solving real-world problems, and continuously improving software engineering skills through academic projects and hands-on development.
 
 ### Scope of Work
 
-- Architect scalable full-stack web applications
-- Build AI-powered intelligent assistants using LLMs
-- Develop RESTful APIs and backend services
-- Design responsive modern user interfaces
-- Integrate Blockchain for secure data verification
-- Optimize database performance and API efficiency
-- Implement authentication and secure workflows
-- Apply software engineering best practices
-- Explore cloud-native deployment strategies
-- Contribute to open-source learning projects
+- Developing full-stack web applications using the MERN stack
+- Building AI-powered applications using Google Gemini API
+- Designing secure blockchain-based systems
+- Developing REST APIs and backend services
+- Working with MongoDB and MySQL databases
+- Building responsive frontend applications using React
+- Learning cloud technologies and software architecture
+- Practicing clean coding and object-oriented programming
 
 ### Core Technologies
 
@@ -453,7 +440,7 @@ Designing and building scalable software solutions with a strong focus on Artifi
 
 <img src="https://img.shields.io/badge/Java-Programming-6D28D9?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Python-AI%20Development-7C3AED?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-Programming-7C3AED?style=for-the-badge&logo=python&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/React-Frontend-4F46E5?style=for-the-badge&logo=react&logoColor=white"/>
 
@@ -461,9 +448,9 @@ Designing and building scalable software solutions with a strong focus on Artifi
 
 <img src="https://img.shields.io/badge/MongoDB-Database-8B5CF6?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Blockchain-Smart%20Contracts-6D28D9?style=for-the-badge&logo=ethereum&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Gemini-AI-E37400?style=for-the-badge&logo=google&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/AI-LLMs-7C3AED?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ethereum-Blockchain-6D28D9?style=for-the-badge&logo=ethereum&logoColor=white"/>
 
 </p>
 
@@ -629,7 +616,7 @@ open_to:
 
 <div align="center">
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:viswasangaraju@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
