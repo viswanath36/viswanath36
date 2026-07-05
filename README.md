@@ -88,7 +88,7 @@ My engineering philosophy centers around:
 
 ---
 
-# Tech Stack
+<h2 align="center">Tech Stack</h2>
 
 ## Languages
 
@@ -150,10 +150,6 @@ My engineering philosophy centers around:
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=aws"/>
-
-<img src="https://skillicons.dev/icons?i=docker"/>
-
 <img src="https://skillicons.dev/icons?i=git"/>
 
 <img src="https://skillicons.dev/icons?i=github"/>
@@ -188,7 +184,7 @@ My engineering philosophy centers around:
 </p>
 
 ---
-# Featured Projects
+<h2 align="center">Featured Projects</h2>
 
 <details open>
 <summary>
@@ -203,7 +199,7 @@ The platform leverages blockchain for immutable document verification, AI for co
 
 | Category | Details |
 |-----------|---------|
-| **Technology Stack** | React • Node.js • Express.js • MongoDB • Google Gemini API • JavaScript • IPFS • Ethereum • Solidity
+| **Technology Stack** | React • Node.js • Express.js • MongoDB • Google Gemini API • JavaScript • IPFS • Ethereum • Solidity |
 | **Architecture** | Full Stack • REST API • AI Services • Blockchain Integration |
 | **Performance** | Optimized document indexing, intelligent retrieval, fast verification pipeline |
 | **Security** | SHA-256 Hashing • Blockchain Verification • Secure Upload Pipeline |
@@ -215,7 +211,7 @@ The platform leverages blockchain for immutable document verification, AI for co
 - AI-powered conversational document assistant
 - Blockchain-backed document integrity verification
 - Intelligent document indexing
-- Retrieval Augmented Generation (RAG)
+- AI-powered document analysis using Google Gemini API
 - Secure file upload workflow
 - Immutable blockchain records
 - Smart contract integration
@@ -296,6 +292,38 @@ A decentralized cloud storage platform where uploaded files are securely stored 
 
 ---
 
+<details>
+
+<summary>
+
+## Student Admission & Document Verification System
+
+</summary>
+
+A role-based web application developed for higher education institutions to simplify admissions and securely verify student documents.
+
+| Category | Details |
+|-----------|---------|
+| **Technology Stack** | Python • HTML • CSS • JavaScript • MySQL |
+| **Architecture** | Multi-User Web Application |
+| **Security** | Authentication • Role-Based Access |
+| **Impact** | Simplifies admissions and document verification |
+| **Repository** | **Coming Soon** |
+
+### Engineering Highlights
+
+- Online admission workflow
+- Secure document upload
+- Role-based authentication
+- Student dashboard
+- Admin dashboard
+- Real-time application tracking
+- MySQL database integration
+
+</details>
+
+---
+
 ## MERN Stack Web Applications
 
 </summary>
@@ -324,37 +352,6 @@ A collection of full-stack web applications developed using the MERN ecosystem, 
 
 </details>
 
----
-
-<details>
-
-<summary>
-
-## Telemetry JSON Transformation Engine
-
-</summary>
-
-A Python-based data transformation engine designed to normalize multiple telemetry JSON formats into a unified schema for downstream analytics and enterprise integration.
-
-| Category | Details |
-|-----------|---------|
-| **Technology Stack** | Python • JSON • Data Engineering |
-| **Architecture** | Data Processing Pipeline |
-| **Performance** | Lightweight transformation engine |
-| **Security** | Schema validation |
-| **Impact** | Unified enterprise telemetry processing |
-| **Repository** | **Private Project** |
-
-### Engineering Highlights
-
-- JSON normalization
-- Schema transformation
-- Data validation
-- Python automation
-- Clean architecture
-- Maintainable conversion pipeline
-
-</details>
 
 ---
 
@@ -368,7 +365,7 @@ A Python-based data transformation engine designed to normalize multiple telemet
 
 ---
 
-# Experience
+<h2 align="center">Experience</h2>
 
 ## Aspiring Software Engineer | Computer Science Engineering Student
 
@@ -410,7 +407,7 @@ Passionate Computer Science Engineering student specializing in **Software Devel
 
 ---
 
-# Achievements
+<h2 align="center">Achievements</h2>
 
 <div align="center">
 
@@ -427,7 +424,7 @@ Passionate Computer Science Engineering student specializing in **Software Devel
 
 ---
 
-# Certifications
+<h2 align="center">Certifications</h2>
 
 <p align="center">
 
@@ -456,13 +453,13 @@ Passionate Computer Science Engineering student specializing in **Software Devel
 ---
 
 
-# GitHub Analytics
+<h2 align="center">GitHub Analytics</h2>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=viswanath36&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=github&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=viswanath36&show_icons=true&theme=midnight-purple&hide_border=true&border_radius=12&rank_icon=github&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=viswanath36&theme=tokyonight&hide_border=true&border_radius=12"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=viswanath36&theme=midnight-purple&hide_border=true&border_radius=12"/>
 
 </div>
 
@@ -470,13 +467,13 @@ Passionate Computer Science Engineering student specializing in **Software Devel
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viswanath36&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viswanath36&layout=compact&theme=midnight-purple&hide_border=true&border_radius=12&langs_count=10"/>
 
 </div>
 
 ---
 
-# GitHub Trophies
+<h2 align="center">GitHub Trophies</h2>
 
 <div align="center">
 
@@ -486,17 +483,17 @@ Passionate Computer Science Engineering student specializing in **Software Devel
 
 ---
 
-# Contribution Activity
+<h2 align="center">Contribution Activity</h2>
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=viswanath36&theme=react-darkt&hide_border=true&radius=16"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=viswanath36&theme=react-dark&hide_border=true&radius=16"/>
 
 </div>
 
 ---
 
-# Contribution Snake
+<h2 align="center">Contribution Snake</h2>
 
 <div align="center">
 
@@ -518,7 +515,7 @@ Passionate Computer Science Engineering student specializing in **Software Devel
 </div>
 
 
-# Current Focus
+<h2 align="center">Current Focus</h2>
 
 ```yaml
 name: Sangaraju Viswanath
@@ -559,7 +556,7 @@ open_to:
 
 ---
 
-# Connect With Me
+<h2 align="center">Connect With Me</h2>
 
 <div align="center">
 
@@ -585,9 +582,9 @@ open_to:
 
 <div align="center">
 
-### Professional Philosophy
-
-*"Turning ideas into scalable software through clean code, thoughtful architecture, and continuous learning."*
+> ### 💡 Professional Philosophy
+>
+> *"Turning ideas into scalable software through clean code, thoughtful architecture, and continuous learning."*
 
 </div>
 
