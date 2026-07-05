@@ -584,7 +584,7 @@ open_to:
 
 > ### 💡 Professional Philosophy
 >
-> *"Turning ideas into scalable software through clean code, thoughtful architecture, and continuous learning."*
+ *"Turning ideas into scalable software through clean code, thoughtful architecture, and continuous learning."*
 
 </div>
 
