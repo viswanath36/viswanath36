@@ -629,14 +629,26 @@ Designing and building scalable software solutions with a strong focus on Artifi
 
 # Contribution Snake
 
+# Contribution Snake
+
 <div align="center">
 
-> **After creating the repository below, replace this URL with your generated snake animation.**
-
-<img width="100%" src="https://raw.githubusercontent.com/viswanath36/viswanath36/output/github-contribution-grid-snake-dark.svg"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/viswanath36/viswanath36/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/viswanath36/viswanath36/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/viswanath36/viswanath36/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 </div>
-
 ---
 
 # Current Focus
