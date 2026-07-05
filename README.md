@@ -1,34 +1,34 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4F46E5,25:6D28D9,50:7C3AED,75:8B5CF6,100:A855F7&text=Sangaraju%20Viswanath&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:312E81,25:4F46E5,60:7C3AED,100:06B6D4&text=Sangaraju%20Viswanath&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1200&color=8B5CF6&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+Engineer;Full+Stack+Developer;Building+Scalable+Products;Open+Source+Contributor;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1200&color=06B6D4&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+Engineer;Full+Stack+Developer;Building+Scalable+Products;Open+Source+Contributor;Always+Learning+New+Technologies"/>
 </p>
 
 <p align="center">
+  
+<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-312E81?style=for-the-badge&logo=academia&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI%20%26%20ML-Enthusiast-06B6D4?style=for-the-badge&logo=openai&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/AI%20%26%20ML-Enthusiast-7C3AED?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Full%20Stack-MERN%20Developer-7C3AED?style=for-the-badge&logo=stackshare&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Full%20Stack-MERN%20Developer-8B5CF6?style=for-the-badge&logo=stackshare&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-5B21B6?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-4F46E5?style=for-the-badge&logo=github&logoColor=white"/>
 
 </p>
 
 <p align="center">
+  
+<img src="https://img.shields.io/badge/Location-Hyderabad,%20India-06B6D4?style=flat-square&logo=googlemaps&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Location-Hyderabad,%20India-4F46E5?style=flat-square&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open%20to-Software%20Engineering-7C3AED?style=flat-square&logo=visualstudiocode&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Open%20to-Software%20Engineering-6D28D9?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://komarev.com/ghpvc/?username=viswanath36&style=flat-square&color=06B6D4"/>
 
-<img src="https://komarev.com/ghpvc/?username=viswanath36&style=flat-square&color=7C3AED"/>
+<img src="https://img.shields.io/github/followers/viswanath36?style=flat-square&color=7C3AED&label=Followers"/>
 
-<img src="https://img.shields.io/github/followers/viswanath36?style=flat-square&color=6D28D9&label=Followers"/>
-
-<img src="https://img.shields.io/github/stars/viswanath36?style=flat-square&color=8B5CF6&label=Stars"/>
+<img src="https://img.shields.io/github/stars/viswanath36?style=flat-square&color=06B6D4&label=Stars"/>
 
 </p>
 
@@ -56,7 +56,7 @@
 
 ---
 
-# About Me
+<h2 align="center">About Me</h2>
 
 I am a **Computer Science Engineering student** and an **Aspiring Software Engineer** with a strong interest in **Artificial Intelligence**, **Full Stack Web Development**, and **Blockchain Technology**.
 
@@ -480,7 +480,7 @@ Passionate Computer Science Engineering student specializing in **Software Devel
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=viswanath36&theme=algolia&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=viswanath36&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4"/>
 
 </div>
 
@@ -490,7 +490,7 @@ Passionate Computer Science Engineering student specializing in **Software Devel
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=viswanath36&theme=tokyo-night&hide_border=true&radius=16"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=viswanath36&theme=react-darkt&hide_border=true&radius=16"/>
 
 </div>
 
@@ -587,7 +587,7 @@ open_to:
 
 ### Professional Philosophy
 
-*"Engineering is not just about writing code—it's about designing reliable, scalable, and intelligent solutions that create lasting impact."*
+*"Turning ideas into scalable software through clean code, thoughtful architecture, and continuous learning."*
 
 </div>
 
@@ -604,5 +604,5 @@ If you enjoy my work or find my projects helpful, consider following my GitHub j
 ---
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:4F46E5,25:6D28D9,50:7C3AED,75:8B5CF6,100:A855F7"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:312E81,25:4F46E5,60:7C3AED,100:06B6D4"/>
 </p>
