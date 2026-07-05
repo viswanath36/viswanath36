@@ -604,14 +604,6 @@ If you enjoy my work or find my projects helpful, consider following my GitHub j
 
 ---
 
-## Let's Connect
-
-- 📧 Email: **viswasangaraju@gmail.com**
-- 💼 LinkedIn: **linkedin.com/in/s-viswanath-8b545335b**
-- 💻 GitHub: **github.com/viswanath36**
-
----
-
 <p align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=180&color=0:4F46E5,25:6D28D9,50:7C3AED,75:8B5CF6,100:A855F7"/>
 </p>
