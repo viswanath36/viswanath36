@@ -582,8 +582,8 @@ open_to:
 
 <div align="center">
 
-> ### 💡 Professional Philosophy
->
+ ### 💡 Professional Philosophy
+
  *"Turning ideas into scalable software through clean code, thoughtful architecture, and continuous learning."*
 
 </div>
