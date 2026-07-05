@@ -58,8 +58,6 @@
 
 # About Me
 
-# About Me
-
 I am a **Computer Science Engineering student** and an **Aspiring Software Engineer** with a strong interest in **Artificial Intelligence**, **Full Stack Web Development**, and **Blockchain Technology**.
 
 I enjoy building practical software solutions that solve real-world problems through clean architecture, modern web technologies, and intelligent systems. My experience includes developing AI-powered applications, blockchain-based document management systems, and responsive web applications using the MERN stack.
@@ -170,22 +168,18 @@ My engineering philosophy centers around:
 
 ---
 
-# AI / Machine Learning Expertise
+# Core Technical Expertise
 
-| Domain | Proficiency | Details |
-|:---------|:-----------:|:---------|
-| Machine Learning | ★★★★☆ | Supervised & Unsupervised Learning |
-| Artificial Intelligence | ★★★★★ | AI-powered Product Development |
-| Large Language Models | ★★★★☆ | Prompt Engineering, RAG Systems |
-| Generative AI | ★★★★☆ | AI Assistants & Intelligent Automation |
-| NLP | ★★★★☆ | Text Processing & Conversational AI |
-| Computer Vision | ★★★☆☆ | Image Processing Fundamentals |
-| Data Structures | ★★★★★ | Performance-Oriented Development |
-| Algorithms | ★★★★★ | Efficient Problem Solving |
-| Backend Systems | ★★★★★ | REST APIs, Authentication, Databases |
-| Cloud Computing | ★★★★☆ | Deployment, Hosting & Scalability |
-| Blockchain | ★★★★☆ | Smart Contracts, Secure Storage |
-| Software Engineering | ★★★★★ | System Design & Product Engineering |
+| Domain | Technologies |
+|---------|--------------|
+| Programming | Java, Python, JavaScript |
+| Frontend | HTML, CSS, React.js, Bootstrap |
+| Backend | Node.js, Express.js |
+| Database | MongoDB, MySQL |
+| Artificial Intelligence | Google Gemini API, AI Assistants |
+| Blockchain | Ethereum, Solidity, IPFS |
+| Software Development | MERN Stack, REST APIs |
+| Tools | Git, GitHub, VS Code, Postman |
 
 ---
 
@@ -209,7 +203,7 @@ The platform leverages blockchain for immutable document verification, AI for co
 
 | Category | Details |
 |-----------|---------|
-| **Technology Stack** | React • Node.js • Express.js • MongoDB • Ollama • LangChain • IPFS • Blockchain • Smart Contracts |
+| **Technology Stack** | React • Node.js • Express.js • MongoDB • Google Gemini API • JavaScript • IPFS • Ethereum • Solidity
 | **Architecture** | Full Stack • REST API • AI Services • Blockchain Integration |
 | **Performance** | Optimized document indexing, intelligent retrieval, fast verification pipeline |
 | **Security** | SHA-256 Hashing • Blockchain Verification • Secure Upload Pipeline |
@@ -301,46 +295,6 @@ A decentralized cloud storage platform where uploaded files are securely stored 
 </details>
 
 ---
-
-<details>
-
-<summary>
-
-## Intelligent AI Chatbot Platform
-
-</summary>
-
-An AI-powered conversational platform capable of understanding user queries, retrieving contextual knowledge, and generating intelligent responses using modern LLM technologies.
-
-Built to demonstrate scalable AI integration into modern web applications.
-
-| Category | Details |
-|-----------|---------|
-| **Technology Stack** | React • Node.js • Express.js • MongoDB • Google Gemini API • JavaScript • IPFS • Ethereum • Smart Contracts |
-| **Architecture** | AI Service + REST API |
-| **Performance** | Low-latency inference pipeline |
-| **Security** | Secure API architecture |
-| **Impact** | Intelligent enterprise conversational assistant |
-| **Repository** | **Coming Soon** |
-
-### Engineering Highlights
-
-- Prompt Engineering
-- RAG architecture
-- LLM integration
-- Context-aware conversations
-- API-driven services
-- Modular AI backend
-- Scalable deployment
-- AI-powered document analysis using Google Gemini API
-
-</details>
-
----
-
-<details>
-
-<summary>
 
 ## MERN Stack Web Applications
 
@@ -576,14 +530,12 @@ role:
   - Full Stack Developer
 
 currently_learning:
-  - Advanced Data Structures & Algorithms
+  - Data Structures & Algorithms
   - System Design
-  - Generative AI
-  - Large Language Models
-  - Retrieval-Augmented Generation (RAG)
-  - Cloud Computing
-  - Docker & Kubernetes
-  - AWS
+  - MERN Stack
+  - Artificial Intelligence
+  - Google Gemini API
+  - Blockchain
 
 currently_building:
   - AI-Powered Blockchain Document Assistant
@@ -592,14 +544,10 @@ currently_building:
   - Full Stack MERN Projects
 
 currently_exploring:
-  - Agentic AI
-  - Multi-Agent Systems
-  - Vector Databases
-  - LangChain
-  - MCP
-  - AI Automation
-  - Microservices
-  - DevOps
+  - Generative AI
+  - Cloud Computing
+  - Software Architecture
+  - Blockchain
 
 open_to:
   - Software Engineering
@@ -653,6 +601,14 @@ open_to:
 If you enjoy my work or find my projects helpful, consider following my GitHub journey and connecting with me.
 
 </p>
+
+---
+
+## Let's Connect
+
+- 📧 Email: **viswasangaraju@gmail.com**
+- 💼 LinkedIn: **linkedin.com/in/s-viswanath-8b545335b**
+- 💻 GitHub: **github.com/viswanath36**
 
 ---
 
