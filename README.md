@@ -629,8 +629,6 @@ Designing and building scalable software solutions with a strong focus on Artifi
 
 # Contribution Snake
 
-# Contribution Snake
-
 <div align="center">
 
 <picture>
