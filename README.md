@@ -455,7 +455,6 @@ Passionate Computer Science Engineering student specializing in **Software Devel
 
 ---
 
----
 
 # GitHub Analytics
 
@@ -517,7 +516,7 @@ Passionate Computer Science Engineering student specializing in **Software Devel
 </picture>
 
 </div>
----
+
 
 # Current Focus
 
