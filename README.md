@@ -430,7 +430,7 @@ A Python-based data transformation engine designed to normalize multiple telemet
 ## Software Engineer | AI & Full Stack Developer
 
 **Open to Full-Time Opportunities**  
-**2025 – Present**
+**2026 – Present**
 
 Designing and building scalable software solutions with a strong focus on Artificial Intelligence, Full Stack Development, Cloud Computing, and Blockchain Technologies. Passionate about creating production-ready applications that solve real-world business challenges.
 
@@ -488,94 +488,23 @@ Designing and building scalable software solutions with a strong focus on Artifi
 
 # Certifications
 
-## Amazon Web Services (AWS)
-
-<p>
-
-<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/AWS-Solutions%20Architect-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-</p>
-
----
-
-## Oracle
-
-<p>
-
-<img src="https://img.shields.io/badge/Oracle-Java-CC2927?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Oracle-SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-</p>
-
----
-
-## Cisco
-
-<p>
-
-<img src="https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Cisco-Cybersecurity-049FD9?style=for-the-badge&logo=cisco&logoColor=white"/>
-
-</p>
-
----
-
-## NPTEL
-
-<p>
-
-<img src="https://img.shields.io/badge/NPTEL-Programming-592C82?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/NPTEL-Data%20Structures-592C82?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/NPTEL-Artificial%20Intelligence-592C82?style=for-the-badge"/>
-
-</p>
-
-> **Note:** Replace the badges above with your actual certifications. It's better to show only certifications you've earned.
-
----
-
-# Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-Certified%20Developer-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Coding-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## Competitive Programming
-
-| Platform | Status | Focus |
-|----------|--------|-------|
-| LeetCode | Active | Data Structures & Algorithms |
-| HackerRank | Active | Problem Solving |
-| GeeksforGeeks | Active | Interview Preparation |
-| CodeChef | Learning | Competitive Programming |
-
----
-
 <p align="center">
+
+<a href="#">
+<img src="https://img.shields.io/badge/IBM-Python%20101%20for%20Data%20Science-1261FE?style=for-the-badge&logo=ibm&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Simplilearn-Web%20Development%20for%20Beginners-FF6F00?style=for-the-badge&logo=simplilearn&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Deloitte-Technology%20Job%20Simulation-0E8A16?style=for-the-badge&logo=deloitte&logoColor=white"/>
+</a>
+
+</p>
+
+---
 
 ### Engineering Vision
 
